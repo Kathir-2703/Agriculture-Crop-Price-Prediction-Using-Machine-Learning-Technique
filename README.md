@@ -29,10 +29,10 @@ be solved only based on the available data.This work is based on finding suitabl
 - Deployment and Maintenance
 
 # System Architecture:
-![alt text](image-5.png)
+![image-5](https://github.com/user-attachments/assets/2bfd2405-fed3-46e1-98f6-e6da4f170e51)
 
 # Flow Chart:
-![alt text](image-6.png)
+![image-6](https://github.com/user-attachments/assets/3470285e-26a7-4c95-b1ca-5d7606117123)
 
 # Result & Implications:
 – Accurate Price Forecasting
